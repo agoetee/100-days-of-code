@@ -1,6 +1,7 @@
 # 100 days of code progress log
 
 ## Day 1: 15 February 2024
+
 __Today's Learning:__ Revision of these vital concepts:
 
 - __Git__ - It's a software installed of a computer for version control purposes
@@ -10,6 +11,7 @@ __Today's Learning:__ Revision of these vital concepts:
 - __open source__ in which projects can be open for anyone with the skills can contribute to it to make it a whole.
 
 ## Day 2: 16 February 2024
+
 __Today's Learning:__ Assignment from Class:
 
 - __forked__ a repository. Tutor created a repo that we were supposed to do the following: We clone the __fork__
@@ -21,6 +23,7 @@ __Today's Learning:__ Assignment from Class:
 The previous day the usual class rep could not make it so i was tasked to remind the tutor on saturday about the class. After posting the reminders, this colleague reached out so we go through some concepts. So we scheduled for the evening and we went through some __git__ and __github__ flow.
 
 ## Day 3: 17 February 2024
+
 __Today's Learning:__ Concepts from Class:
 
 ### Git and GitHub
@@ -28,3 +31,12 @@ __Today's Learning:__ Concepts from Class:
 - __approved pull requests__ Those that had the chance approved some pull requests. Others also declined with comments for corrections to be done.
 ### open Source
 - I forked a repository that was compiling Ghanaian tech communities and I hope to add a youtube channel I know of.
+
+
+## Day 4: 18 February 2024
+
+__Today's Learning__: Open Source
+
+- I made an addition to the repository compiling Ghanaian tech communities, where I included a youtube channel by Hannah Kwaw. It got accepted and merged. Really happy
+
+<img src="assets/pullRequestApproval.png" alt="Pull request accepted" height="220px" width="380px">
