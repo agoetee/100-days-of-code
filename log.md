@@ -18,4 +18,13 @@ __Today's Learning:__ Assignment from Class:
 - make __pull request__. For my changes to be joined to the original repo, i made a pull request
 
 **team work** 
-The previous day the usual class rep could not make it so i was tasked to remind the tutor on saturday about the class. After posting the reminders, this colleague reached out so we go through some concepts. So we scheduled for the evening and we went through some __git__ and __github__ flow.  
+The previous day the usual class rep could not make it so i was tasked to remind the tutor on saturday about the class. After posting the reminders, this colleague reached out so we go through some concepts. So we scheduled for the evening and we went through some __git__ and __github__ flow.
+
+## Day 3: 17 February 2024
+__Today's Learning:__ Concepts from Class:
+
+### __Git and GitHub
+- __assigned reviewers to a pull request__ To experience how the workflow behaves in an organisation we assigned reviewers to each other
+- __approved pull requests__ Those that had the chance approved some pull requests. Others also declined with comments for corrections to be done.
+### open Source
+- I forked a repository that was compiling Ghanaian tech communities and I hope to add a youtube channel I know of.
