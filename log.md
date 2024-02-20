@@ -23,7 +23,7 @@ The previous day the usual class rep could not make it so i was tasked to remind
 ## Day 3: 17 February 2024
 __Today's Learning:__ Concepts from Class:
 
-### __Git and GitHub
+### Git and GitHub
 - __assigned reviewers to a pull request__ To experience how the workflow behaves in an organisation we assigned reviewers to each other
 - __approved pull requests__ Those that had the chance approved some pull requests. Others also declined with comments for corrections to be done.
 ### open Source
