@@ -53,3 +53,16 @@ __Today's Learning__: PPython concepts
     - Must not have spaces(only one word)
     - Can only use letters, numbers and underscores
     - cannot begin with a number
+
+- Others
+
+    |Valid|Invalid|
+    |:---:|:---:|
+    |current_balance|current-balance|
+    |currentBalance|current balance (no space)|
+    |account4|4account (cannot start with int)|
+    |_42|42(cannot start with int)|
+    |TOTAL_SUM|TOTAL_$UM (cannot have special x'ters)|
+    |hello|'hello' (cannot have special x'ters)|
+
+    - __Spam__ is a valid variable name but it is a convention to start a variable with `lowercase`
