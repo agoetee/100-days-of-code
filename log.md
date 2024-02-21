@@ -66,3 +66,8 @@ __Today's Learning__: PPython concepts
     |hello|'hello' (cannot have special x'ters)|
 
     - __Spam__ is a valid variable name but it is a convention to start a variable with `lowercase`
+
+
+## Day 6: 20 February 2024
+
+__Today's Learning__:
