@@ -40,3 +40,16 @@ __Today's Learning__: Open Source
 - I made an addition to the repository compiling Ghanaian tech communities, where I included a youtube channel by Hannah Kwaw. It got accepted and merged. Really happy
 
 <img src="assets/pullRequestApproval.png" alt="Pull request accepted" height="220px" width="380px">
+
+## Day 5: 19 February 2024
+
+__Today's Learning__: PPython concepts
+
+- __Variable naming Convention__ A good variable name describes the data with which it contains. A descriptive name will make code reading more understandable. The following conventions are used:
+    * __camel case__ : `baaYe`
+    * __underscores__ : `baa_ye`
+
+- __Name Restrictions__ 
+    - Must not have spaces(only one word)
+    - Can only use letters, numbers and underscores
+    - cannot begin with a number
