@@ -70,4 +70,14 @@ __Today's Learning__: PPython concepts
 
 ## Day 6: 20 February 2024
 
-__Today's Learning__:
+__Today's Learning__: Python variables Deep dive
+
+- __variables__ are there to hold data during run-time
+- __Contains__ three parts: __name__, __assignment__ and __value__. This is shown like this 
+`age = 25`
+__age__ is the name,
+__=__ is the assignment, and
+__25__ is the value. In this case, its an `integer`
+
+- __Variable unpacking__ A situation where several variables are declared with __one__ assignment operator. eg.
+`first_name, last_name, age = 'Charles', 'Agoe', 21`. 
