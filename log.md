@@ -43,7 +43,7 @@ __Today's Learning__: Open Source
 
 ## Day 5: 19 February 2024
 
-__Today's Learning__: PPython concepts
+__Today's Learning__: Python concepts
 
 - __Variable naming Convention__ A good variable name describes the data with which it contains. A descriptive name will make code reading more understandable. The following conventions are used:
     * __camel case__ : `baaYe`
