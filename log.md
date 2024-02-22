@@ -81,3 +81,13 @@ __25__ is the value. In this case, its an `integer`
 
 - __Variable unpacking__ A situation where several variables are declared with __one__ assignment operator. eg.
 `first_name, last_name, age = 'Charles', 'Agoe', 21`. 
+
+## Day 7: 21 February 2024
+
+__Today's Learning__: Reading concepts-
+
+- __interpreted vs Compiled language__ Computer understands `0`'s and `1`'s, known as binary which humans do not understand. Therefore the compilers and interpretors translate from human readable to machine language.
+
+- __PEP8__ is a styling regime
+
+- __Modules, Packages and Libraries__ programs in a python file are exported/imported to other programs as __modules__. A group of modules form a __package__. It is important that packages have the `__init__.py` file in them
