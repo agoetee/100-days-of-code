@@ -91,3 +91,15 @@ __Today's Learning__: Reading concepts-
 - __PEP8__ is a styling regime
 
 - __Modules, Packages and Libraries__ programs in a python file are exported/imported to other programs as __modules__. A group of modules form a __package__. It is important that packages have the `__init__.py` file in them
+
+## Day 8: 21 February 2024
+
+__Today's Learning__: Control Flow
+
+__Control Flows__ centers on decision making and how a program is executed
+
+Control flow comprises of a lot of things:
+
+- if statements
+- for loops
+- while loops
