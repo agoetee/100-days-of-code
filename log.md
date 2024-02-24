@@ -92,9 +92,9 @@ __Today's Learning__: Reading concepts-
 
 - __Modules, Packages and Libraries__ programs in a python file are exported/imported to other programs as __modules__. A group of modules form a __package__. It is important that packages have the `__init__.py` file in them
 
-## Day 8: 21 February 2024
+## Day 8: 22 February 2024
 
-__Today's Learning__: Control Flow
+__Today's Learning__: Class study Control Flow
 
 __Control Flows__ centers on decision making and how a program is executed
 
@@ -103,3 +103,33 @@ Control flow comprises of a lot of things:
 - if statements
 - for loops
 - while loops
+
+## Day 9: 23 February 2024
+
+__Today's Learning__: Class study Conditionals (if statements)
+
+Conditionals have a structure. It consists of the following:
+- conditional keyword (`if`, `elif` and `else`)
+- condition (`a == 2`)
+- a colon (`:`) at the end of the line
+- indentation of the next line.
+
+__example__
+
+```py
+# A program to group age of students into different levels.
+age = int(input("Enter your age: "))
+
+if age > 15:
+    print("You have crossed High school level")
+elif age > 12 and age <= 15:
+    print("You are in JHS)
+elif age >= 6 and age <= 12:
+    print("You are in Primary school")
+else:
+    print("Kingdergarten be that oo")
+```
+
+Code runs from top to buttom. It starts from the `if` statement and evaluates it. It the evaluation returns `true`, that block runs.
+
+If it evaluates to `false`, execution continues to the `elif` statement with same approach. each one that evaluates to true is executed then the code exits.
