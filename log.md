@@ -133,3 +133,14 @@ else:
 Code runs from top to buttom. It starts from the `if` statement and evaluates it. It the evaluation returns `true`, that block runs.
 
 If it evaluates to `false`, execution continues to the `elif` statement with same approach. each one that evaluates to true is executed then the code exits.
+
+## Day 10: 24 February 2024
+
+__Today's Learning__: Personal Readings __LOOPS__
+
+Loops are used to cycle through iterables. There are _2_ types in python:
+
+- __for loop__ repeats a cycle of code a specified number of times
+
+- __while loop__ repeats a variable number of times example when the number will be determined by a user input.
+
