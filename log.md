@@ -1,6 +1,6 @@
 # 100 days of code progress log
 
-## Day 1: 15 February 2024
+## Day 1: 15 Feb 24
 
 __Today's Learning:__ Revision of these vital concepts:
 
@@ -10,7 +10,7 @@ __Today's Learning:__ Revision of these vital concepts:
 - __linux command line(CLI)__ Came back to some basics of the command line. Since my Operation System is a __windows__, I used __vagrant__ which is a virtual machine platform that can house a __linux__ environment
 - __open source__ in which projects can be open for anyone with the skills can contribute to it to make it a whole.
 
-## Day 2: 16 February 2024
+## Day 2: 16 Feb 24
 
 __Today's Learning:__ Assignment from Class:
 
@@ -22,7 +22,7 @@ __Today's Learning:__ Assignment from Class:
 **team work** 
 The previous day the usual class rep could not make it so i was tasked to remind the tutor on saturday about the class. After posting the reminders, this colleague reached out so we go through some concepts. So we scheduled for the evening and we went through some __git__ and __github__ flow.
 
-## Day 3: 17 February 2024
+## Day 3: 17 Feb 24
 
 __Today's Learning:__ Concepts from Class:
 
@@ -33,7 +33,7 @@ __Today's Learning:__ Concepts from Class:
 - I forked a repository that was compiling Ghanaian tech communities and I hope to add a youtube channel I know of.
 
 
-## Day 4: 18 February 2024
+## Day 4: 18 Feb 24
 
 __Today's Learning__: Open Source
 
@@ -41,7 +41,7 @@ __Today's Learning__: Open Source
 
 <img src="assets/pullRequestApproval.png" alt="Pull request accepted" height="220px" width="380px">
 
-## Day 5: 19 February 2024
+## Day 5: 19 Feb 24
 
 __Today's Learning__: Python concepts
 
@@ -68,7 +68,7 @@ __Today's Learning__: Python concepts
     - __Spam__ is a valid variable name but it is a convention to start a variable with `lowercase`
 
 
-## Day 6: 20 February 2024
+## Day 6: 20 Feb 24
 
 __Today's Learning__: Python variables Deep dive
 
@@ -82,7 +82,7 @@ __25__ is the value. In this case, its an `integer`
 - __Variable unpacking__ A situation where several variables are declared with __one__ assignment operator. eg.
 `first_name, last_name, age = 'Charles', 'Agoe', 21`. 
 
-## Day 7: 21 February 2024
+## Day 7: 21 Feb 24
 
 __Today's Learning__: Reading concepts-
 
@@ -92,7 +92,7 @@ __Today's Learning__: Reading concepts-
 
 - __Modules, Packages and Libraries__ programs in a python file are exported/imported to other programs as __modules__. A group of modules form a __package__. It is important that packages have the `__init__.py` file in them
 
-## Day 8: 22 February 2024
+## Day 8: 22 Feb 24
 
 __Today's Learning__: Class study Control Flow
 
@@ -104,7 +104,7 @@ Control flow comprises of a lot of things:
 - for loops
 - while loops
 
-## Day 9: 23 February 2024
+## Day 9: 23 Feb 24
 
 __Today's Learning__: Class study Conditionals (if statements)
 
@@ -134,7 +134,7 @@ Code runs from top to buttom. It starts from the `if` statement and evaluates it
 
 If it evaluates to `false`, execution continues to the `elif` statement with same approach. each one that evaluates to true is executed then the code exits.
 
-## Day 10: 24 February 2024
+## Day 10: 24 Feb 24
 
 __Today's Learning__: Personal Readings __LOOPS__
 
@@ -144,7 +144,7 @@ Loops are used to cycle through iterables. There are _2_ types in python:
 
 - __while loop__ repeats a variable number of times example when the number will be determined by a user input.
 
-## Day 11: 24 February 2024
+## Day 11: 24 Feb 24
 
 __Today's Learning__: Class study: Data Types and For loops
 
