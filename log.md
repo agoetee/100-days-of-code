@@ -144,3 +144,28 @@ Loops are used to cycle through iterables. There are _2_ types in python:
 
 - __while loop__ repeats a variable number of times example when the number will be determined by a user input.
 
+## Day 11: 24 February 2024
+
+__Today's Learning__: Class study: Data Types and For loops
+
+- __Data Type__ is a kind of data that tells what kind of operation that can be executed on it. Examples are:
+    - `int` eg 28
+    - `str` eg 'Akosua'
+    - `float` eg 28.5
+    - `bool` eg `True`
+    - `set` eg `set()` unique values
+    - `dist` eg {'key': 'value'}
+    - etc
+
+- __for loop__
+```py
+students = ["Panford", "Charles", "Prinston", "Emmanuel", "Ken"]
+
+for name in students:
+    print(name)
+```
+
+__name__ is an _element_ in the iterable __students__
+
+other _iterables_ are: `list`, `string`
+
