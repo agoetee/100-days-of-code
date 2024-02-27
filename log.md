@@ -171,7 +171,21 @@ other _iterables_ are: `list`, `string`
 
 ## Day 12: 25 Feb 24
 
-__Today's Learning__
+__Today's Learning__ __The type() function__
+
+The type() function is used to determine the type of data contained in a particular variable. This will return the type in a class of a print function
+
+```py
+age = 34
+
+print(type(age))
+
+```
+output:
+
+```sh
+<class 'int'>
+```
 
 
 ## Day 13: 26 Feb 24
