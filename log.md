@@ -169,3 +169,25 @@ __name__ is an _element_ in the iterable __students__
 
 other _iterables_ are: `list`, `string`
 
+## Day 12: 25 Feb 24
+
+__Today's Learning__
+
+
+## Day 13: 26 Feb 24
+
+__Today's Learning__
+
+## Day 14: 27 Feb 24
+
+__Today's Learning__ __Class Concept__: Slicing in Lists 
+
+__Slicing__ is used to cut into a series of items in a list
+
+Eg. 
+
+```py
+students = ["Jan", "Feb", "Mar", "Apr"]
+print(students[0:3])
+```
+This will output indexex `0` to `2`. This is because in slicing, It stars with the __first__ index mentioned and ends excluding the __last__ index by __one__
