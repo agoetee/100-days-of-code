@@ -190,7 +190,12 @@ output:
 
 ## Day 13: 26 Feb 24
 
-__Today's Learning__
+__Today's Learning__ __The input() function__
+
+The input() function is used to take input from the user.
+
+After taking the string, It usually returns a string. Therefore even is the user enters an integer, It is enterd as a string.
+To get an Interger, It has to be type-casted into __int__ 
 
 ## Day 14: 27 Feb 24
 
