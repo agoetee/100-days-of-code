@@ -228,3 +228,14 @@ while age >= 1:
 ```
 
 When the code enters the while loop, It it will run until the condition `age >= 1` becomes false
+
+## Day 16: 29 Feb 24
+
+__Today's Learning__ __Functions__
+ A function is a block of code that performs a specific task and provides a result. A function has to perform _one - and - only one_ function.
+
+ ### Keywords in Functions
+
+ - __return__- The return keyword holds the value in memory, so that it can be used elsewhere in the code. It is quite different from __print__ which only prints the value to the screen. Therefore __return__ keyword is prefered to __print__ keyword in functions.
+
+ - __variables__- for clarity, The __return__ helps the function to be stored in a variable so that it can be printed later.
