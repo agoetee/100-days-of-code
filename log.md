@@ -210,3 +210,21 @@ students = ["Jan", "Feb", "Mar", "Apr"]
 print(students[0:3])
 ```
 This will output indexex `0` to `2`. This is because in slicing, It stars with the __first__ index mentioned and ends excluding the __last__ index by __one__
+
+## Day 15: 28 Feb 24
+
+__Today's Learning__: __While Loop__
+
+As a loop, It cycles through a line of code. The condition has to be made `False` before the cycle will stop. It therefore has an __incremental__ or __decremental__ clause which will gradually __falsify__ the condition.
+
+Eg
+
+```py
+age = 20
+
+while age >= 1:
+    print(age)
+    age = age - 1
+```
+
+When the code enters the while loop, It it will run until the condition `age >= 1` becomes false
