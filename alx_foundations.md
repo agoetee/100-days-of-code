@@ -22,3 +22,14 @@
 - [Disrupt Africa](https://disrupt-africa.com/)
 - [Tech in Africa Newsletter](https://www.techinafrica.com/)
 - [Ventureburn](https://ventureburn.com/)
+
+## Women in Technology
+- [Africa women in technology](https://www.africanwomenintech.com/)
+- [Google women techmakers](https://developers.google.com/womentechmakers)
+
+## Company Discovery
+This section contains platforms you can use to discover and research African companies employing innovative tech in various industries.
+- [Crunch Base](https://www.crunchbase.com/)
+- [YCombinator](https://www.ycombinator.com/)
+- [Wellfound](https://wellfound.com/) [Formally AngelList]
+-(Fast Company)[https://www.fastcompany.com/]
