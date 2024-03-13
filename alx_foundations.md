@@ -33,3 +33,11 @@ This section contains platforms you can use to discover and research African com
 - [YCombinator](https://www.ycombinator.com/)
 - [Wellfound](https://wellfound.com/) [Formally AngelList]
 -(Fast Company)[https://www.fastcompany.com/]
+
+## Company Discovery Africa
+- [Disrupt Africa](https://old.disruptafrica.com/)
+-[Startup list africa](https://startuplist.africa/)
+
+## Youtube channels
+- [Techquickie](https://www.youtube.com/@techquickie)
+- [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ)
