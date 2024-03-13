@@ -8,3 +8,10 @@
 - [TLDR Newsletters](https://actions.tldrnewsletter.com/web-version?ep=1&lc=6e905448-948b-11ed-b3bc-314455c4031e&p=fc09d9ae-ed71-11ed-8c29-f56da3d0d0ec&pt=campaign&t=1683551706&s=51d467265e8a05699f05d187619f956cd1cac43fd7cb0cf4c1d3d9b0bce7f07c)  Great for Tech news and new product launches.
 - [HackerNewsLetter](https://hackernewsletter.com/) This offers a curated list of select stories from HackerNews on topics such as programming, security, data science, startups, and more.
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/) This will be a great resource for those who love beautiful design.
+
+## World tech News
+- [HackerNews](https://news.ycombinator.com/)
+- [Wall Street Journal](https://www.wsj.com/tech)
+- [Tech Crunch](https://techcrunch.com/)
+- [YCombinator](https://www.ycombinator.com/)
+-[Wired](https://www.wired.com/)
