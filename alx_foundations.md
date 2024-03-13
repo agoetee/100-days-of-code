@@ -15,3 +15,10 @@
 - [Tech Crunch](https://techcrunch.com/)
 - [YCombinator](https://www.ycombinator.com/)
 -[Wired](https://www.wired.com/)
+
+## Africa Tech News and Info platforms
+- [Tech CAbal](https://techcabal.com/) This platform also provides news about African issues that we need to be aware of as we are thinking about solutions to the problems you’re going to be tackling. A very important resource. Other resources are:
+- [TechCrunch Africa](https://techcrunch.com/tag/africa/)
+- [Disrupt Africa](https://disrupt-africa.com/)
+- [Tech in Africa Newsletter](https://www.techinafrica.com/)
+- [Ventureburn](https://ventureburn.com/)
