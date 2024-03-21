@@ -49,3 +49,13 @@ This section contains platforms you can use to discover and research African com
 - [NY Times Standing 7 min Workout](https://www.nytimes.com/video/well/100000007527127/standing-7-min-workout.html)
 
 - [calm down dance](https://www.youtube.com/watch?v=uTaNkOzg9qE)
+
+## Knowing Myself
+
+- [Personality Test(Myers-Briggs)](https://www.16personalities.com)
+
+- [Match IT job on Personality Test](https://www.jobstreet.com.my/career-advice/article/what-is-the-best-it-job-for-your-mbti-personality-type)
+
+- [Criticism Test](https://www.queendom.com/tests/access_page/index.htm?idRegTest=721)
+
+- [Leadership Potential Test](https://www.queendom.com/tests/access_page/index.htm?idRegTest=2289)
