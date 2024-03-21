@@ -59,3 +59,5 @@ This section contains platforms you can use to discover and research African com
 - [Criticism Test](https://www.queendom.com/tests/access_page/index.htm?idRegTest=721)
 
 - [Leadership Potential Test](https://www.queendom.com/tests/access_page/index.htm?idRegTest=2289)
+
+- [Leadership Assessment test](https://leadershipcircle.com/leadership-assessment-tools/)
