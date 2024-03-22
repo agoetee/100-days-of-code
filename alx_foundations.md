@@ -61,3 +61,7 @@ This section contains platforms you can use to discover and research African com
 - [Leadership Potential Test](https://www.queendom.com/tests/access_page/index.htm?idRegTest=2289)
 
 - [Leadership Assessment test](https://leadershipcircle.com/leadership-assessment-tools/)
+
+- [Time Management test](https://www.psychologytoday.com/us/tests/career/time-management-skills-test)
+
+- [Empathetic Test](https://www.buzzfeed.com/kellyoakes/whats-your-empathy-score?utm_term=.rpPPVdd60#.fjR8KQQAX)
