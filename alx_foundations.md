@@ -65,3 +65,10 @@ This section contains platforms you can use to discover and research African com
 - [Time Management test](https://www.psychologytoday.com/us/tests/career/time-management-skills-test)
 
 - [Empathetic Test](https://www.buzzfeed.com/kellyoakes/whats-your-empathy-score?utm_term=.rpPPVdd60#.fjR8KQQAX)
+
+## Gmail Skills
+
+### Signatures
+Signatures is a very cool feature that is available on gmail. To quick access that, in the compose window, click the pen icon at the bottom of it and select __Insert Signature__ then __Manage Signature__
+Scroll down to the __Signatures__ section then Creat one.
+<img src="assets/signatures.png" width="200px" height="200px" alt="Signatures in Gmail"/>
