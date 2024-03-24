@@ -72,3 +72,9 @@ This section contains platforms you can use to discover and research African com
 Signatures is a very cool feature that is available on gmail. To quick access that, in the compose window, click the pen icon at the bottom of it and select __Insert Signature__ then __Manage Signature__
 Scroll down to the __Signatures__ section then Creat one.
 <img src="assets/signatures.png" width="200px" height="200px" alt="Signatures in Gmail"/>
+
+## Document tools
+
+### PDF Merge
+I found a very cool to merge multiple pdf files into one. 
+[iLovepdf](https://www.ilovepdf.com/merge_pdf)
