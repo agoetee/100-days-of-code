@@ -78,3 +78,7 @@ Scroll down to the __Signatures__ section then Creat one.
 ### PDF Merge
 I found a very cool to merge multiple pdf files into one. 
 [iLovepdf](https://www.ilovepdf.com/merge_pdf)
+
+## Googling
+
+- [How to google like a pro](https://www.studocu.com/row/document/universite-mohammed-premier-oujda/languages-and-preparation-for-active-life/how-to-google-like-a-pro-10-tips-for-more-effective-googling/88821206)
