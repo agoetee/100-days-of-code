@@ -82,3 +82,6 @@ I found a very cool to merge multiple pdf files into one.
 ## Googling
 
 - [How to google like a pro](https://www.studocu.com/row/document/universite-mohammed-premier-oujda/languages-and-preparation-for-active-life/how-to-google-like-a-pro-10-tips-for-more-effective-googling/88821206)
+
+## Google Drive
+- [Google Drive Tutorial: 10 tasks](https://youtu.be/Ko5R6iGGlAo)
