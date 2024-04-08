@@ -85,3 +85,6 @@ I found a very cool to merge multiple pdf files into one.
 
 ## Google Drive
 - [Google Drive Tutorial: 10 tasks](https://youtu.be/Ko5R6iGGlAo)
+
+## AI Design Tools
+- [Slide maker](https://app.simplified.com/design)
