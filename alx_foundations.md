@@ -90,6 +90,7 @@ I found a very cool to merge multiple pdf files into one.
 - [Slide maker](https://app.simplified.com/design)
 
 ## Popular Wireframing Tools
+Wireframes display the basic layout, structure, and functionality of a proposed app or website. Wireframes are kind of like blueprints, and they are useful for helping designers, programmers, and others think and communicate about the structure of an app or website. They are really helpful early in the design process to help teams explore how an app might work and how people would interact with it.
 
  - [Figma](https://www.figma.com/)
 
