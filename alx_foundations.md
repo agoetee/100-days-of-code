@@ -88,3 +88,13 @@ I found a very cool to merge multiple pdf files into one.
 
 ## AI Design Tools
 - [Slide maker](https://app.simplified.com/design)
+
+## Popular Wireframing Tools
+
+ - [Figma](https://www.figma.com/)
+
+ - [Miro](https://miro.com/)
+
+ - [Adobe XD](https://adobexdplatform.com/)
+
+ - [Canva](https://www.canva.com/)
