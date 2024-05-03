@@ -50,7 +50,7 @@ This section contains platforms you can use to discover and research African com
 
 - [calm down dance](https://www.youtube.com/watch?v=uTaNkOzg9qE)
 
-## Knowing Myself
+## Knowing Myself Tests
 
 - [Personality Test(Myers-Briggs)](https://www.16personalities.com)
 
@@ -99,3 +99,28 @@ Wireframes display the basic layout, structure, and functionality of a proposed 
  - [Adobe XD](https://adobexdplatform.com/)
 
  - [Canva](https://www.canva.com/)
+
+ 
+ ## Presentation Tools 
+
+ - [Beautiful ai](https://www.beautiful.ai/)
+
+ - [Simplified presentation maker](https://simplified.com/ai-presentation-maker) 
+
+### Slide Designs
+
+ - [Slides Carnival](https://www.slidescarnival.com/)
+
+ - [SlidesGo](https://slidesgo.com/)
+
+ - [Pinterest](https://www.pinterest.com/)
+
+ - [Dribble](https://dribbble.com/) 
+
+### Design Tips
+
+ - [11 Design tips](https://www.ders.es/seminer/visage-co-11-design-tips-beautiful-presentations-.pdf)
+
+ - [60 Effective Powerpoint Tips](https://business.tutsplus.com/articles/37-effective-powerpoint-presentation-tips--cms-25421)
+
+ - [22 Tools to create Presentations](https://blog.hubspot.com/marketing/presentation-tools)
