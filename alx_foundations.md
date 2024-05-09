@@ -128,3 +128,5 @@ Wireframes display the basic layout, structure, and functionality of a proposed 
  ## Interview Questions
 
  - [The muse- Common interview Questions and Answers](https://www.themuse.com/advice/interview-questions-and-answers)
+
+ - [Answering common interview questions](https://files.cdn.thinkific.com/file_uploads/359511/attachments/652/875/cb2/NYT_-_How_to_Answer_Common_Difficult_Interview_Questions_-_The_New_York_Times.pdf)
