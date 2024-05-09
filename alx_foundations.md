@@ -132,3 +132,20 @@ Wireframes display the basic layout, structure, and functionality of a proposed 
  - [Answering common interview questions](https://files.cdn.thinkific.com/file_uploads/359511/attachments/652/875/cb2/NYT_-_How_to_Answer_Common_Difficult_Interview_Questions_-_The_New_York_Times.pdf)
 
  - [Video: Having a successful interview](https://youtu.be/HG68Ymazo18?feature=shared)
+
+ ## Recording A video
+
+ There are some video recording tools used to recoed the Pitch and Presentations. They are:
+  - Loom
+
+  - Zoom
+
+### Tutorials on Video recordings:
+    
+- [Zoom tutorial](https://youtu.be/ekMebzPEOqI)
+
+- [Loom Tutorials](https://youtu.be/tL4OWGVE6o8)
+
+### Editing Tools
+
+ - [ClipChamp](https://clipchamp.com/en/) 
