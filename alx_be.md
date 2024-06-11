@@ -16,3 +16,5 @@ These are some resources that help to ubderstand the shell very well
 - [The Shell](http://linuxcommand.org/lc3_lts0010.php)
 
 - [Navigation](http://linuxcommand.org/lc3_lts0020.php)
+
+- [Working with commands](http://linuxcommand.org/lc3_lts0060.php)
