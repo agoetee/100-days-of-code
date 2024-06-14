@@ -21,6 +21,8 @@ These are some resources that help to ubderstand the shell very well
 
 - [Looking Around](http://linuxcommand.org/lc3_lts0030.php)
 
+- [Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
+
 - [File permissions](https://linuxize.com/post/understanding-linux-file-permissions/)
 
 - [File Permissions in 5](https://www.youtube.com/watch?v=LnKoncbQBsM)
