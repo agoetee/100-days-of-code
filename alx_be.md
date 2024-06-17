@@ -29,6 +29,9 @@ These are some resources that help to ubderstand the shell very well
 
 - [Permissions](http://linuxcommand.org/lc3_lts0090.php)
 
-### Advanced Commands
+#### Advanced Commands
 - [Grep](https://www.gnu.org/software/grep/manual/grep.html)
+
+### Problem Solving
+- [14 problem solving strategies](https://www.indeed.com/career-advice/career-development/problem-solving-strategies)
 
