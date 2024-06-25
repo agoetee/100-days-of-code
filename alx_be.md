@@ -35,3 +35,14 @@ These are some resources that help to ubderstand the shell very well
 ### Problem Solving
 - [14 problem solving strategies](https://www.indeed.com/career-advice/career-development/problem-solving-strategies)
 
+## Paradigms and Algorithms
+
+### Paradigms
+OOP in computer programming focuses on how to break up the requirements into simple, reusable classes that can be used to blueprint instances of objects. Overall, implementing OOP allows for better data structures and reusability, saving time in the long run.
+
+- [educative: Object Oriented Programming](https://www.educative.io/blog/object-oriented-programming)
+
+## Python
+
+- [Geek for geeks](https://www.geeksforgeeks.org/introduction-to-python/)
+
