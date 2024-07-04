@@ -3,6 +3,12 @@
 ## Foundamentals
 A lot of concepts are being introduced out here
 
+### Resources
+This is a list of resources that privide information
+
+#### Videos
+ - [Python Simplified](https://www.youtube.com/@PythonSimplified)
+
 ### Git and GitHub
 
 ### Advanced Git Commands
@@ -119,6 +125,12 @@ match guess as x:
 The code is written as 
 `case x if x < secret_number` means 
 is the value `x` less than the `secret_number`?
+
+### Namespaces
+A **namespace** is a list of methods, functions and classes that are available to a calling program.
+Information on namespaces is found in the [Namespaces Documentation](https://docs.python.org/3/faq/programming.html).
+
+Just `ctrl + F` and search `namespace` to display the outputs.
 
 
 
