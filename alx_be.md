@@ -132,5 +132,61 @@ Information on namespaces is found in the [Namespaces Documentation](https://doc
 
 Just `ctrl + F` and search `namespace` to display the outputs.
 
+*Highlights*
+It’s good practice if you import modules in the following order:
+
+ 1. standard library modules – e.g. sys, os, argparse, re
+
+ 2. third-party library modules (anything installed in Python’s site-packages directory) – e.g. dateutil, requests, PIL.Image
+
+ 3. locally developed modules
+
+ ## Exception Handling
+
+ ### Custom Exception
+ Custom exceptions are user-defined exception classes that you create to handle specific errors or exceptional situations in your code. By deriving custom exceptions from the base Exception class in Python, you can create more meaningful and specific error messages for your applications.
+
+ ```py
+ class OutOfStockError(Exception):
+    """Custom exception for handling out-of-stock items."""
+
+    def __init__(self, item_name):
+        self.item_name = item_name
+
+    def __str__(self):
+        return f"Sorry, the item '{self.item_name}' is out of stock."
+
+# Sample Product Inventory
+product_inventory = {
+    "apple": 10,
+    "banana": 5,
+    "orange": 0,  # Out of stock
+    "grapes": 3
+}
+ ```
+
+Then call a function to utilize the class:
+
+```py
+def purchase_item(item, quantity):
+    try:
+        if product_inventory[item] == 0:
+            raise OutOfStockError(item)
+        else:
+            print(f"Purchase successful: {quantity} {item}(s)")
+            product_inventory[item] -= quantity
+    except KeyError:
+        print(f"Sorry, '{item}' is not available in our inventory.")
+
+# Testing the Custom Exception
+try:
+    purchase_item("apple", 3)  # Purchase successful
+    purchase_item("orange", 1)  # Raises OutOfStockError
+    purchase_item("watermelon", 1)  # Item not available
+except OutOfStockError as e:
+    print(e)  # Output:
+```
+
+
 
 
