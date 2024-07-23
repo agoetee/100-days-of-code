@@ -187,6 +187,15 @@ except OutOfStockError as e:
     print(e)  # Output:
 ```
 
+## Databases
+
+### The Relational model
+
+Resources
+
+ - [A good overview of Databases](https://www.techopedia.com/6/28832/enterprise/databases/introduction-to-databases#:~:text=A%20database%2C%20in%20the%20most,store%2C%20manage%20and%20retrieve%20information)
+
+  - [Databases by Digital Ocean](https://www.digitalocean.com/community/conceptual-articles/an-introduction-to-databases)
 
 
 
