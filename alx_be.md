@@ -197,5 +197,9 @@ Resources
 
   - [Databases by Digital Ocean](https://www.digitalocean.com/community/conceptual-articles/an-introduction-to-databases)
 
+  Practice
+
+   - [SQL Bolt](https://sqlbolt.com/lesson/select_queries_introduction)
+
 
 
