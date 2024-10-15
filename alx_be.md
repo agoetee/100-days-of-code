@@ -201,5 +201,14 @@ Resources
 
    - [SQL Bolt](https://sqlbolt.com/lesson/select_queries_introduction)
 
+## Resources To learn
 
+ - [JavaScript based modern web development](https://fullstackopen.com/en/about)
+
+### API TOOOLS
+
+ - [](https://sparrowapp.dev/)
+
+### Open Source
+- [ list of open source internship/mentorship programs](https://navendu.me/posts/open-source-internship-programs/)
 
